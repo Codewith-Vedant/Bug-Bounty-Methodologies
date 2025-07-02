@@ -25,22 +25,13 @@ The goal is to maintain a **field-tested methodology** for every key phase of bu
 | 🧪 Exploitation        | Manual & automated exploitation techniques across common CVEs and services |
 | 🛡️ Post-Exploitation   | Gaining persistence, sensitive data extraction, and further pivoting        |
 
-> 📂 Each folder contains tools, commands, tips, real-world examples, and references.
-
----
-
-## 🛠️ Tools & Techniques
-
-- `amass`, `subfinder`, `httpx`, `ffuf`, `gau`, `waybackurls`, `hakrawler`, `dirsearch`
-- JavaScript endpoint parsing and secret extraction
-- Nmap with NSE scripts, Nikto, nuclei, etc.
-- Burp Suite methodologies, parameter pollution, SSRF chains, and more
+> 📂 Each folder contains tools, commands and useful tips.
 
 ---
 
 ## 🧠 Pro Tips
 
-- Every methodology phase is enhanced with **Pro Tips** and **Gotchas**
+- Every methodology phase is enhanced with **Pro Tips**
 - Common mistakes and how to avoid them
 - Examples pulled from actual bug bounty reports
 
